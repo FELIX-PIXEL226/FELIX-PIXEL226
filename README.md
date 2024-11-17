@@ -15,14 +15,7 @@
   <img  src="https://i.ibb.co/B4PHrDw/Sin-t-tulo-1.jpg"
        alt="XD" /></a>
 </div>
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="" alt="@torsdg" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
-</p>
+
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
