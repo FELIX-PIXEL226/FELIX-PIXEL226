@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://i.ibb.co/B4PHrDw/Sin-t-tulo-1.jpg"
+  <img  src="https://i.ibb.co/fYJpFDk/XD1.jpg"
        alt="XD" /></a>
 </div>
 
